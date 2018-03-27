@@ -1,0 +1,19 @@
+Hello!
+Hey!
+play 1
+end
+play 1
+end
+discard 1
+discard 1
+discard 1
+discard 1
+discard 1
+draw
+draw
+draw
+draw
+draw
+attack 1 1
+play 2
+

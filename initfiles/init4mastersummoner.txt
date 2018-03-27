@@ -1,0 +1,20 @@
+jason
+richard
+play 1
+end
+end
+end
+end
+play 1
+play 1
+end
+end
+end
+end
+use 1
+end
+play 2
+end
+attack 5 1
+board
+quit

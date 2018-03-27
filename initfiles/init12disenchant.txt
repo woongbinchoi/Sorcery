@@ -1,0 +1,15 @@
+jason
+richard
+play 3
+end
+play 2 1 1
+board
+end
+describe 1
+use 1
+board
+play 1 1 1
+describe 1
+use 1
+board
+quit

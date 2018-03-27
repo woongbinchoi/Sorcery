@@ -1,0 +1,20 @@
+Jason
+Richard
+play 1
+board
+play 2
+board
+play 1 1 2
+board
+hand
+end
+play 3
+play 3
+board
+play 2 2 1
+board
+end
+end
+attack 2 1
+board
+quit

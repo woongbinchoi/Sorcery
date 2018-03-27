@@ -1,0 +1,14 @@
+Jason
+Richard
+play 1
+play 1
+board
+play 1
+play 1
+board
+play 1
+board
+end
+play 3
+board
+quit
